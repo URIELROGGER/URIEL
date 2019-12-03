@@ -2,7 +2,7 @@ package Vendas;
 
 public class BoloDePote extends Produto{
 	final double Valor = 6.00;
-	private int Quantidade = 0;
+	private int Quantidade;
 
 //	public double getValor() {
 //		return Valor;
